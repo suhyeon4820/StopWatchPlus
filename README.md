@@ -52,7 +52,7 @@
 
 |                   Ligth Mode                    |                   Dark Mode                    |                      Dark Mode Convert                       |
 | :---------------------------------------------: | :--------------------------------------------: | :----------------------------------------------------------: |
-| <img src = "Image\lightMode.png" width = "200"> | <img src = "Image\darkMode.png" width = "200"> | <img src="Image/Gif/transferDarkmode.gif" width = "400" style="zoom:50%;" /> |
+| <img src = "Image\lightMode.png" width = "200"> | <img src = "Image\darkMode.png" width = "200"> | <img src="Image/Gif/transferDarkMode.gif" width = "400" style="zoom:50%;" /> |
 
 
 
