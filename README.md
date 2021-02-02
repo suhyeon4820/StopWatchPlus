@@ -46,18 +46,15 @@
 | <img src="Image/Gif/StartButton.gif" width = "400" style="zoom:50%;" /> | <img src="Image/Gif/PauseButton.gif" width = "400" style="zoom:50%;" /> | <img src="Image/Gif/LapButton.gif" width = "400" style="zoom:50%;" /> | <img src="Image/Gif/ResetButton.gif" width = "400" style="zoom:50%;" /> |
 
 - 다크모드 화면 구현
-
   - 화면 오른쪽 상단에 있는 토글을 이용해 다크모드 전한을 할 수 있어 편리하고 빠르게 전환할 수 있음
-
   - 다크모드 전환시 색상이 변하는 토글을 적용해 직관적인 디자인을 구현
-
     - Light Mode에서 토글은 검은색이지만 Dark Mode로 전환되면 흰색으로 바뀜
 
-    |                   Ligth Mode                    |                   Dark Mode                    |
-    | :---------------------------------------------: | :--------------------------------------------: |
-    | <img src = "Image\lightMode.png" width = "200"> | <img src = "Image\darkMode.png" width = "200"> |
+|                   Ligth Mode                    |                   Dark Mode                    |                      Dark Mode Convert                       |
+| :---------------------------------------------: | :--------------------------------------------: | :----------------------------------------------------------: |
+| <img src = "Image\lightMode.png" width = "200"> | <img src = "Image\darkMode.png" width = "200"> | <img src="Image/Gif/transferDarkmode.gif" width = "400" style="zoom:50%;" /> |
 
-    
 
-    
+
+
 
