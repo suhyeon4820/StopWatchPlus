@@ -50,9 +50,9 @@
   - 다크모드 전환시 색상이 변하는 토글을 적용해 직관적인 디자인을 구현
     - Light Mode에서 토글은 검은색이지만 Dark Mode로 전환되면 흰색으로 바뀜
 
-|                   Ligth Mode                    |                   Dark Mode                    |                      Dark Mode Convert                       |
-| :---------------------------------------------: | :--------------------------------------------: | :----------------------------------------------------------: |
-| <img src = "Image\lightMode.png" width = "200"> | <img src = "Image\darkMode.png" width = "200"> | <img src="Image/Gif/transferDarkMode.gif" width = "400" style="zoom:50%;" /> |
+|                   Ligth Mode                    |                   Dark Mode                    |                      Dark Mode Convert                      |
+| :---------------------------------------------: | :--------------------------------------------: | :---------------------------------------------------------: |
+| <img src = "Image\lightMode.png" width = "200"> | <img src = "Image\darkMode.png" width = "200"> | <img src="Image/Gif/transferDarkMode.gif" width = "200"  /> |
 
 
 
