@@ -6,7 +6,7 @@
 
 ## App 소개
 
-<img src = "image\AppIcon.png" width = "200" style = "float: left"> [ 개발 내용 ] : 스탑워치의 기본 기능 및 다크모드 화면에 구현
+<img src = ".\Image\AppIcon.png" width = "200" style = "float: left"> [ 개발 내용 ] : 스탑워치의 기본 기능 및 다크모드 화면에 구현
 
 -Ti
 
