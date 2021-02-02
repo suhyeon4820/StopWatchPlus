@@ -205,6 +205,7 @@ class ViewController: UIViewController {
         buttonClicked = 0
         
         // Setup 초기화
+        startButton.applyStartButtonDesign()
         self.timeTextLabel.text = "00:00:00"
         [lapLabel1, lapLabel2, lapLabel3, lapLabel4, lapLabel5].forEach { $0.textColor = .red }
         [lapLabel1, lapLabel2, lapLabel3, lapLabel4, lapLabel5].forEach { $0.text = "00:00:00" }
