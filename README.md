@@ -4,13 +4,13 @@
 
 
 
-<img src = "Image\AppIcon.png" width = "150" >
+<p align="center"><img src = "Image\AppIcon.png" width = "150" ></p>
 
 <p align="center">StopWatchPlus</P>
 
 <br>
 
-<img src = "Image\appstore.png" width = "250" >
+<p align="center"><img src = "Image\appstore.png" width = "250" ></p>
 
 <br>
 
