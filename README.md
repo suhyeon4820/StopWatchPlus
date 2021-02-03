@@ -12,11 +12,7 @@
 
 <p align="center"><img src = "Image\appstore.png" width = "250" ></p>
 
-<br>
-
----
-
-<br>
+<br><br>
 
 <img src = "Image\01.png" >
 
