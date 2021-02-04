@@ -28,7 +28,7 @@
 - **개발 환경**
   - 사용 Library : Lottie 
   - Design Architecture : MVC Pattern
-- **개발 기간 ** : 4일 (제작 2일, 배포준비 2일)
+- **개발 기간** : 4일 (제작 2일, 배포준비 2일)
 
 <br>
 
@@ -86,7 +86,7 @@
    }
    ```
 
-
+<br>
 
 #### [ Status Bar에 DarkMode 적용 ]
 
@@ -117,7 +117,7 @@
   }
   ```
 
-  
+<br>
 
 #### [Lottie 애니메이션 효과]
 
